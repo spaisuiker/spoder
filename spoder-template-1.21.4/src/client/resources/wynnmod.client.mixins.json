@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "github.spaisuiker.wynnmod.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
